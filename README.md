@@ -15,4 +15,4 @@ Any Android 4.1+ device
 ## For developers
 Check out [build.gradle file](./app/build.gradle)
 ## License 
-Domain Search is [MIT licensed](./LICENSE).
+Screen flashlight is [MIT licensed](./LICENSE).
