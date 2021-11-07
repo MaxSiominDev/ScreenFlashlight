@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Screen flashlight</string>
+    <string name="tap_on_screen_to_enable_disable_flashlight">Tap on screen to enable/disable flashlight</string>
+</resources>
