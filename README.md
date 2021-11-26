@@ -12,7 +12,5 @@ git clone https://github.com/MaxSiominDev/ScreenFlashlight.git
 
 Any Android 4.1+ device
 
-## For developers
-Check out [build.gradle file](./app/build.gradle)
 ## License 
 Screen flashlight is [MIT licensed](./LICENSE).
